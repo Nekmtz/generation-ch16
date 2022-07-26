@@ -1,0 +1,35 @@
+h1{
+    background-color: rgb(42, 190, 141);
+    width: 1000px;
+    height: 200px;
+    font-size: 200px;
+    text-align: center;
+}
+header{
+
+    background-color: rgb(51, 243, 124);
+    height: 400px;
+    width: auto;
+    display: flex;
+
+}
+main{
+
+    background-color: rgb(175, 207, 207);
+    height: 300px;
+    width: auto;
+    display: flex;
+}
+
+footer{
+    background-color: rgb(27, 41, 41);
+    height: 200px;
+    width: auto;
+    display: flex;
+}
+imagen1{
+    border-radius: 100px;
+}
+p{
+    
+}
