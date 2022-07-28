@@ -2,8 +2,26 @@ h1{
     background-color: rgb(42, 190, 141);
     width: 1000px;
     height: 200px;
-    font-size: 200px;
+    font-size: 50px;
     text-align: center;
+}
+h2{
+    background-color: rgb(21, 243, 169);
+    width: 100px;
+    height: auto;
+    font-size: 30px;
+    text-align: bottom;
+    display: inline;
+    
+}
+h3{
+    background-color: rgb(68, 126, 106);
+    width: 1000px;
+    height: auto;
+    font-size: 30px;
+    text-align: bottom;
+    display: box;
+
 }
 header{
 
@@ -27,9 +45,14 @@ footer{
     width: auto;
     display: flex;
 }
-imagen1{
-    border-radius: 100px;
+lengujes{
+    display: block;
 }
-p{
+ul{
+    list-style-type: circle;
     
+
+}
+ol{
+    list-style-type:lower-greek ;
 }
