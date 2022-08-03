@@ -15,5 +15,10 @@ background-color: rgb(177, 173, 168);
     position: relative;
     top: 6px;
 }
-
+    .nav-link:hover {
+    color: black;
+    background-color: rgb(65, 124, 85);
+    border-radius: 5px;
+    margin: 3px;
+    transition:0.8s;}
 
