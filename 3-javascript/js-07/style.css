@@ -1,0 +1,45 @@
+/* .imgp{
+
+    display: block;
+    background-color: bisque;
+    border-radius: 5px;
+    margin: 0 auto;
+    border: none;
+    padding: 10px 20px ;
+
+    
+
+}
+
+#img-perrito{
+width: 500px;
+height: auto;
+border-radius: 10px;
+display: block;
+margin: 0 auto;
+
+
+} */
+
+.imgcat{
+
+    display: block;
+    background-color: rgb(28, 156, 35);
+    border-radius: 5px;
+    margin: 0 auto;
+    border: none;
+    padding: 10px 20px ;
+
+    
+
+}
+
+#img-cat{
+width: 600px;
+height: 400px;
+border-radius: 10px;
+display: block;
+margin: 0 auto;
+
+
+}
