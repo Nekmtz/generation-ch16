@@ -5,8 +5,13 @@
 // i, j , k l
 // 2. condicion para q se ejeccute 
 // 3. cambio de variable de trabajo
+///
+do {
+    i = i + 1;
+    result = result + i;
+  } while (i < 5);
 
-
+///
 for(let i = 0; i<10; i++) {
 
     console.log("el valor de i es " + i);
