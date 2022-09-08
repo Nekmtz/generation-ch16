@@ -1,0 +1,35 @@
+
+
+P{
+    border: 6px;
+    background-color: antiquewhite;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+ul{
+    list-style-type: circle;
+    
+
+}
+ol{
+    list-style-type:lower-greek ;
+}
+h1{ background-color: blueviolet;
+    
+
+}
+h2{
+    background-color: brown;
+}
+div{
+    background-color: rgb(57, 57, 165);
+    width: 100px;
+}
+a{background-color: black;
+    display: inline-block;
+    width: 100px;
+    border: 10px solid greenyellow;
+}
+h4{
+    border: 10px dotted rebeccapurple;
+}
