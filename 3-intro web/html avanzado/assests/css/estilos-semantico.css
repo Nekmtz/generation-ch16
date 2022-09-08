@@ -1,0 +1,33 @@
+
+header{
+    display: flex;
+    background-color: aqua;
+    height: 600px;
+    width: 20000px;
+}
+h1{
+    font-size: 5rem;
+    font-style: italic;
+}
+main{
+    background-color: rgb(27, 41, 41);
+    height: 2000px;
+    width: auto;
+    display: flex;
+    
+
+}
+
+footer{
+    background-color: rgb(82, 102, 102);
+    height: 500px;
+    width: auto;
+    display: flex;
+    
+}
+.cuadro{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(116, 20, 95);
+}

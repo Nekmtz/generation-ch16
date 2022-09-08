@@ -1,0 +1,58 @@
+h1{
+    background-color: rgb(42, 190, 141);
+    width: 1000px;
+    height: 200px;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    background-color: rgb(21, 243, 169);
+    width: 100px;
+    height: auto;
+    font-size: 30px;
+    text-align: bottom;
+    display: inline;
+    
+}
+h3{
+    background-color: rgb(68, 126, 106);
+    width: 1000px;
+    height: auto;
+    font-size: 30px;
+    text-align: bottom;
+    display: box;
+
+}
+header{
+
+    background-color: rgb(51, 243, 124);
+    height: 400px;
+    width: auto;
+    display: flex;
+
+}
+main{
+
+    background-color: rgb(175, 207, 207);
+    height: 300px;
+    width: auto;
+    display: flex;
+}
+
+footer{
+    background-color: rgb(27, 41, 41);
+    height: 200px;
+    width: auto;
+    display: flex;
+}
+lengujes{
+    display: block;
+}
+ul{
+    list-style-type: circle;
+    
+
+}
+ol{
+    list-style-type:lower-greek ;
+}
